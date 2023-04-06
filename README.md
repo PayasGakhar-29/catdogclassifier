@@ -1,2 +1,2 @@
-# catdogclassifier
-Classifying cat and dog images using CNN
+# streamlit-cnn-cat-dog-classifier
+CNN cat dog classifier
